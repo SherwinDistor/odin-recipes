@@ -1,12 +1,15 @@
+body {
+    width: 700px;
+    margin: auto;
+}
+
 h1 {
     text-align: center;
 }
 
-img {
-    margin: 20px 360px;
+.home-links {
+    width: 200px;
+    margin: auto;
 }
 
-#home-links {
-    font-size: medium;
-}
 
